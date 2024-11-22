@@ -1,0 +1,2 @@
+# contiguous-memory-allocation-in-Memory-management
+This project demonstrates contiguous memory allocation techniques commonly used in operating systems. The techniques implemented include Best Fit, Worst Fit, First Fit, and Fixed Fit, allowing users to simulate memory management strategies interactively. The project consists of an HTML interface, CSS for styling, and JavaScript for functionality.
